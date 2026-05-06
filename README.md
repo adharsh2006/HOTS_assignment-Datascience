@@ -142,7 +142,7 @@ The complete written report is available as [`HOTS_021.pdf`](./HOTS_021.pdf), wh
 | Name | Roll Number |
 |------|-------------|
 | Adharsh V S | RA2311026050021 |
-| Guru Prasanna S | RA2311026050021 |
+
 
 ---
 
