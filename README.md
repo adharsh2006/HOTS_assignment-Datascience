@@ -3,7 +3,7 @@
 > **Course:** Data Science | **Type:** Higher-Order Thinking Assignment  
 > **Team Members:**  
 > - Adharsh V S — `RA2311026050021`  
-> - Guru Prasanna S — `RA2311026050021`
+
 
 ---
 
